@@ -22,3 +22,8 @@ unzip report.zip
 python2 Report.py
 
 ```
+#       IMAGEN DEMOSTRATIVA   
+
+<p align="centre">
+<img src="https://i.ibb.co/jww4MQ9/1.jpg" alt="Script">
+</p> 
