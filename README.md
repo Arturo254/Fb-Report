@@ -2,6 +2,12 @@
 Fb-Report es una herramienta programada en python para reportar cuentas de Facebook mediante bots Automatizados
 
 
+<p align="centre">
+<img src="https://i.ibb.co/MSyDQNz/Picsart-22-10-27-17-36-07-779.png" alt="Script">
+</p>
+
+
+
 # INSTALACIÓN
 
 
