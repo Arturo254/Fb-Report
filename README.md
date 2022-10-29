@@ -17,7 +17,7 @@ git clone https://github.com/Arturo254/Fb-Report
 
 cd Fb-Report
 
-unzip report.zip
+unzip fbreport.zip
 
 python2 Report.py
 
